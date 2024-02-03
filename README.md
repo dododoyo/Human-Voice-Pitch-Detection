@@ -8,17 +8,20 @@
 
 - The course was taught to me by Mr. Belayneh Melka, who is an instructor in the School Of Electrical and Computer Engineering at Addis Ababa Institute of Technology.
 
-- The repository is organized into different files, each containing specific purpose. The algorithmic implementations are done with matlab,
-  which is a programming language with a numerical computing environment.
+- The repository is organized into different files, each containing specific purpose. The algorithmic implementations are done with matlab, which is a programming language with a numerical computing environment. Here are the list of files.
 
-- This repository is designed to accompany and enrich the learning experience for students enrolled in the Digital Signal Processing course at Addis Ababa University.
-  It specifically focuses on a project implementing Human Voice Pitch Detection techniques.
+| File | Description|
+|------|------------|
+|[Algorithm](./Algoritm.m) | MATLAB implementation |
+|[Algorithm Description](./Algorithm.Descrption.md) | Document Describing the Algorithm |
+|[Documentation](./Project.Documentation.md) | Document of the project |
 
-- Whether you're currently taking the course or simply curious about applying DSP to analyze human voice signals, this project provides a valuable hands-on experience.
-  Explore the simplest signal processing method to extract fundamental frequency (pitch) information from recorded data. Learn about techniques like time-domain analysis,
-  frequency-domain analysis, and potentially explore applications.
+- This repository is designed to accompany and enrich the learning experience for students enrolled in the Digital Signal Processing course at Addis Ababa University. It specifically focuses on a project implementing Human Voice Pitch Detection techniques.
 
-- I welcome all contributions! If you have a different implementation for human voice pitch detection using various techniques or programming languages,
-   I would love to see it! Please submit a pull request with your contribution.
+- Whether you're currently taking the course or simply curious about applying DSP to analyze human voice signals, this project provides a valuable hands-on experience. Explore the simplest signal processing method to extract fundamental frequency (pitch) information from recorded data. Learn about techniques like time-domain analysis, frequency-domain analysis, and potentially explore applications.
+
+- I welcome all contributions! If you have a different implementation for human voice pitch detection using various techniques or programming languages,I would love to see it! Please submit a pull request with your contribution.
 
 - I hope you find this repository helpful and informative. If you have any questions, comments, or suggestions, please feel free to contact me through [Github](https://github.com/dododoyo) or [Email](mailto:dolphinmulugeta88@gmail.com). Thank you for visiting this repository!
+
+[Made With 🖤 By 🐬](https://github.com/dododoyo/Human-Voice-Pitch-Detection)

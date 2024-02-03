@@ -1,8 +1,6 @@
 # Human Voice Pitch Ditection
 
-
 ##   Introduction
-
 
 In this project, we embark on a thrilling journey to uncover the secrets of voice pitch. We will
 delve into the science behind sound, dissecting how the subtle vibrations of vocal cords
